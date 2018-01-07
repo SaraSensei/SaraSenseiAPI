@@ -26,7 +26,7 @@ setup(
     description='My league private server',
     long_description=open(descr_file).read(),
     author='Sara',
-    url='https://github.com/SaraSensei',
+    url='https://github.com/SaraSensei/SaraSenseiLeagueAPI',
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Topic :: Software Development :: Libraries :: Python Modules',
