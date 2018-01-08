@@ -1,0 +1,20 @@
+{ 
+  "Players": [
+      {  
+	      "rank": "UNRANKED"
+		  "name": "SaraSensei"
+		  "champion": "Poppy"
+		  "team": "BLUE"
+		  "skin"
+		  "summoner1": "REVIVE"
+		  "summoner2": "HEAL"
+		  "ribbon": 0,
+		  "icon": 0
+		  
+		}
+	],
+	"game" : {
+	    "map": "SUMMONERS_RIFT" 
+		"gameMode": "DEAFAULT"
+	}
+}
