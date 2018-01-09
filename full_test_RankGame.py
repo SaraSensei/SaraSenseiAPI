@@ -1,10 +1,4 @@
 
-import os
-import unittest
-
-from requests import HTTPError
-
-from .. import RiotWatcher
 
 
 class SarasenseiRealApiAccessTestCase(unittest.TestCase):
