@@ -1,5 +1,5 @@
 
-from .. import RiotWatcher as RW
+from .. import Queueapi as RW
 
 from collections import deque
 import logging
