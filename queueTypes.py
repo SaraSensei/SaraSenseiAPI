@@ -1,5 +1,5 @@
 
-from .. import Queuetypes as RW
+from .. import Queuetypes as qt
 
 from collections import deque
 import logging
